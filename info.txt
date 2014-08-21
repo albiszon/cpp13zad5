@@ -1,0 +1,2 @@
+To jest demonstracja użycia GITa.
+Ten plik zostal dodany z poziomu githuba.
